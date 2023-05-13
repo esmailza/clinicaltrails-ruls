@@ -1,4 +1,4 @@
-# clinicaltrials_Knwldge_Grph
+# clinicaltrials_ruls
 
 **python3 train.py generate-entities**
 > cleans Criteria column, split it into inclusion and exclusion criteria columns and extract its entities using Spacy library package.
