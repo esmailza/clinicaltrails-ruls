@@ -6,7 +6,8 @@ store the column entities into a new column with string "_Ent" added to the colu
 
 
 **python3 train.py select-disease**
-> Select the trials with that disease name in their condition. By defualt it is on breast cancer.
+> Select the trials with that disease name in their condition. By defualt it is on breast cancer. Save the dataframe in "disease-name.pkl" file.
+> Here it is breast_cancer.pkl
 
 **python3 train.py labelling**
 > creates drug-phase pools and labels the data based on the efficiency of the drugs.
